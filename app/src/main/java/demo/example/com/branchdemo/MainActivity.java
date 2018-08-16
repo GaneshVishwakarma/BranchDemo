@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void changeMethod(){
+        //development code
         Toast.makeText(this, "change msg",Toast.LENGTH_LONG).show();
     }
 }
